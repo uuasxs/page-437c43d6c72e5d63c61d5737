@@ -1,0 +1,99 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "1eb2863f710a43eca5127b29",
+  "owner": "uuasxs",
+  "repo": "page-437c43d6c72e5d63c61d5737",
+  "title": "GPT中转",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "437c43d6c72e5d63c61d5737",
+      "a": "GPT中转",
+      "b": "",
+      "entity": "GPT中转",
+      "brand": "GPT中转",
+      "separator": "",
+      "path": "index.html",
+      "hash": "5ed9118e704c23298878dbb90805c9d97cc653b12f2b70dd40e64656c07311a5",
+      "content": {
+        "keyword1": "GPT中转",
+        "keyword2": "",
+        "primary_entity": "GPT中转",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "GPT中转提供专业VPN网络加速服务，月付15元基础版支持100GB流量，旗舰版300GB流量全节点解锁流媒体。官方客户端下载，IPLC专线加速，隐私保护。",
+          "AI_DESCRIPTION": "GPT中转提供专业VPN网络加速服务，月付15元基础版支持100GB流量，旗舰版300GB流量全节点解锁流媒体。官方客户端下载，IPLC专线加速，隐私保护。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "\n\n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    <style>\n        :root {\n            --deep-blue: #0A2540;\n            --cyan: #00D4FF;\n            --light-cyan: #A5F0FF;\n        }\n        * {\n            margin: 0;\n            padding: 0;\n            box-sizing: border-box;\n        }\n        body {\n            font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, sans-serif;\n            line-height: 1.6;\n            color: #333;\n            background-color: #f8f9fa;\n            max-width: 100%;\n            margin: 0 auto;\n        }\n        main {\n            padding: 20px 15px;\n            max-width: 800px;\n            margin: 0 auto;\n            background: white;\n        }\n        @media (min-width: 768px) {\n            main {\n                padding: 40px 30px;\n            }\n        }\n        h1 {\n            font-size: 2.2rem;\n            color: var(--deep-blue);\n            text-align: center;\n            margin-bottom: 20px;\n            font-weight: 700;\n        }\n        h2 {\n            font-size: 1.5rem;\n            color: var(--deep-blue);\n            margin: 30px 0 15px;\n            border-bottom: 3px solid var(--cyan);\n            padding-bottom: 10px;\n        }\n        p {\n            font-size: 1rem;\n            color: #444;\n            margin-bottom: 15px;\n        }\n        ul, ol {\n            margin: 15px 0 25px 20px;\n            padding-left: 10px;\n        }\n        li {\n            font-size: 1rem;\n            margin-bottom: 8px;\n            color: #555;\n        }\n        .plan-card {\n            background: #f8f9fa;\n            border: 2px solid #e9ecef;\n            border-radius: 12px;\n            padding: 20px;\n            margin-bottom: 20px;\n            transition: all 0.3s ease;\n        }\n        .plan-card.featured {\n            border-color: var(--cyan);\n            background: linear-gradient(135deg, #f0f8ff, #e6f7ff);\n            transform: scale(1.02);\n            box-shadow: 0 4px 12px rgba(0, 212, 255, 0.15);\n        }\n        .plan-name {\n            font-size: 1.3rem;\n            color: var(--deep-blue);\n            margin-bottom: 10px;\n        }\n        .plan-price {\n            font-size: 1.4rem;\n            color: var(--cyan);\n            font-weight: 700;\n            margin-bottom: 15px;\n        }\n        .plan-features {\n            font-size: 0.95rem;\n            color: #444;\n            line-height: 1.7;\n        }\n        details {\n            margin-bottom: 15px;\n            border: 2px solid #e9ecef;\n            border-radius: 8px;\n            overflow: hidden;\n        }\n        summary {\n            font-size: 1.1rem;\n            font-weight: 600;\n            color: var(--deep-blue);\n            padding: 15px 20px;\n            background: #f8f9fa;\n            cursor: pointer;\n            list-style: none;\n        }\n        summary::-webkit-details-marker {\n            display: none;\n        }\n        .faq-answer {\n            padding: 15px 20px;\n            background: white;\n            font-size: 0.98rem;\n            color: #555;\n        }\n        .download-btn {\n            display: inline-block;\n            background: var(--cyan);\n            color: white;\n            padding: 12px 30px;\n            border-radius: 8px;\n            text-decoration: none;\n            font-weight: 600;\n            margin: 20px 0;\n            box-shadow: 0 4px 10px rgba(0, 212, 255, 0.3);\n        }\n        .download-btn:hover {\n            background: #00b8e6;\n        }\n        footer {\n            text-align: center;\n            padding: 30px 20px;\n            font-size: 0.9rem;\n            color: #777;\n            border-top: 1px solid #eee;\n            margin-top: 40px;\n        }\n        .anchor {\n            color: var(--cyan);\n            text-decoration: none;\n        }\n        .anchor:hover {\n            text-decoration: underline;\n        }\n    </style>\n\n\n    <main>\n        <h1>GPT中转</h1>\n        <p>GPT中转是一个专业的VPN网络加速品牌，专注于为用户提供稳定快速的网络连接解决方案。无论您是个人用户还是企业团队，我们都为您提供多种套餐选择和全球节点服务，帮助您实现高效流量加速、隐私保护及流媒体解锁。</p>\n        <h2>使用场景</h2>\n        <ul>\n            <li>解锁Netflix、YouTube、Disney+等主流流媒体平台</li>\n            <li>游戏加速，提升在线竞技体验</li>\n            <li>隐私保护，防止ISP监控和数据泄露</li>\n            <li>远程办公安全访问海外资源</li>\n            <li>日常浏览、视频下载及海外购物</li>\n        </ul>\n        <h2>操作步骤</h2>\n        <ol>\n            <li>选择适合您的套餐并完成支付</li>\n            <li>注册账号并验证邮箱</li>\n            <li>下载官方客户端（支持Windows、Mac、iOS、Android）</li>\n            <li>安装后登录账号</li>\n            <li>选择节点连接网络即可加速</li>\n        </ol>\n        <h2>套餐选择</h2>\n        <div class=\"plan-card\">\n            <div class=\"plan-name\">基础版</div>\n            <div class=\"plan-price\">¥15/月 <span>按年付仅需 ¥150/年</span></div>\n            <div class=\"plan-features\">\n                <p>每月 100GB 极速流量</p>\n                <p>支持 3 台设备同时在线</p>\n                <p>解锁基础流媒体</p>\n                <p>普通线路节点池</p>\n            </div>\n        </div>\n        <div class=\"plan-card featured\">\n            <div class=\"plan-name\">旗舰版</div>\n            <div class=\"plan-price\">¥35/月 <span>按年付仅需 ¥350/年</span></div>\n            <div class=\"plan-features\">\n                <p>每月 300GB 极速流量</p>\n                <p>支持 5 台设备同时在线</p>\n                <p>全节点原生流媒体解锁</p>\n                <p>IPLC 专线游戏加速优化</p>\n                <p>7x24 优先工单支持</p>\n            </div>\n        </div>\n        <div class=\"plan-card\">\n            <div class=\"plan-name\">团队版</div>\n            <div class=\"plan-price\">¥85/月 <span>按年付仅需 ¥850/年</span></div>\n            <div class=\"plan-features\">\n                <p>每月 1000GB 极速流量</p>\n                <p>支持 20 台设备同时在线</p>\n                <p>VIP 专属高带宽节点</p>\n                <p>支持企业定制路由</p>\n                <p>专属客户经理服务</p>\n            </div>\n        </div>\n        <h2>常见问题</h2>\n        <details>\n            <summary>什么是GPT中转？</summary>\n            <div class=\"faq-answer\">GPT中转是一个专业的VPN网络加速品牌，提供稳定高速的流量加速服务，帮助用户解锁全球内容并保护网络隐私。</div>\n        </details>\n        <details>\n            <summary>如何选择适合自己的套餐？</summary>\n            <div class=\"faq-answer\">基础版适合个人用户，月付15元；旗舰版适合需要流媒体解锁和游戏加速的用户，月付35元；团队版适合企业用户，月付85元。</div>\n        </details>\n        <details>\n            <summary>客户端如何下载？</summary>\n            <div class=\"faq-answer\">点击页面下方的官方下载按钮即可获取最新客户端版本，支持多平台下载并安装。</div>\n        </details>\n        <details>\n            <summary>支持哪些设备？</summary>\n            <div class=\"faq-answer\">所有套餐均支持Windows、Mac、iOS、Android等多种设备，同时在线数量以具体套餐为准。</div>\n        </details>\n        <details>\n            <summary>节点质量如何？</summary>\n            <div class=\"faq-answer\">旗舰版及以上套餐提供IPLC专线节点，游戏加速优化显著；普通套餐采用全球节点池，延迟低、速度快。</div>\n        </details>\n        <a href=\"#download\" class=\"download-btn\">立即下载官方客户端</a>\n        <footer>\n            <p>© 2024 GPT中转 | <a href=\"#\" class=\"anchor\">官网</a> | <a href=\"#faq\" class=\"anchor\">常见问题</a></p>\n            <p>友情链接：稳定加速 · 隐私保护 · 官方订阅</p>\n        </footer>\n    <section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main>\n\n",
+          "hash": "0858cb3124ffcf6399f98ab4599a4c632aaae2f6fa27d2e7a24a36981f8fe746",
+          "seo": {
+            "title": "GPT中转 - VPN加速器 客户端下载 官网",
+            "keywords": "GPT中转,VPN加速器,机场,客户端下载,官网,流量加速,VPN服务",
+            "description": "GPT中转提供专业VPN网络加速服务，月付15元基础版支持100GB流量，旗舰版300GB流量全节点解锁流媒体。官方客户端下载，IPLC专线加速，隐私保护。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "lingyunjob.cn",
+    "host": "p-bf2a20a3d8.lingyunjob.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "03b4800c758c2996b1f7c317bfbe76535592b1e71e19904654f3620eb3b90949",
+    "sitemap.xml": "4b5166f029e5925e8cffba2f030e432edcdc5e98cb35a515f2711148718e2845",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "ee1ab6215233e20b1c12e9cae09483161b36fe80c966d377e5a6fc3599bfcd41",
+    "robots.txt": "4b529b999798b98a3bdf5cd569a35705fea3607e0efc3822a71ffaa42ab5b20b",
+    "38d856b8ce309c7288527f8fef8f12ce.txt": "b5760a5adaec52cff96ef1aa493943f18d1d67d5839c23096e4c15ae5e234b81"
+  },
+  "revision": "8afc6f288eadd35633677bcbdeca190352ae9c7fac84ef600956ecdba468190f"
+}
